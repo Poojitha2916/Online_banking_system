@@ -52,7 +52,7 @@ Compile and run:
 
 - Copy code
 - javac BankingApp.java
-= java BankingApp
+- java BankingApp
 
 ✅ In Eclipse:
 
