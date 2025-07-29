@@ -4,6 +4,8 @@
 
 - The Online Banking System is a Java-based console application that simulates essential banking operations like account creation, deposits, withdrawals, balance checks, and transaction tracking. It provides a simple yet powerful way to manage customer accounts and perform secure financial operations.
 
+---
+
 📁 Project Structure
 
 OnlineBankingSystem/
@@ -12,6 +14,8 @@ OnlineBankingSystem/
         ├── models/
         ├── services/
         ├── main/
+
+---
 
 💡 Features
 
@@ -25,6 +29,8 @@ OnlineBankingSystem/
 
 - Display transaction history (optional extension)
 
+---
+
 🛠️ Technologies Used
 
 - Java SE (JDK 8 or 17)
@@ -32,6 +38,8 @@ OnlineBankingSystem/
 - Console-based Input/Output (no GUI)
 
 - Object-Oriented Programming (OOP)
+
+---
 
 🚀 How to Run
 
@@ -42,9 +50,9 @@ OnlineBankingSystem/
 
 Compile and run:
 
-Copy code
-javac BankingApp.java
-java BankingApp
+- Copy code
+- javac BankingApp.java
+= java BankingApp
 
 ✅ In Eclipse:
 
@@ -56,11 +64,14 @@ java BankingApp
 
 - Right-click > Run As > Java Application.
 
+---
+
 📦 Project Files Overview
 
 - File	Description
 BankingApp.java	Main file that contains all classes (BankAccount, Transaction, BankService, and the main method)
 
+---
 
 📄 License
 
